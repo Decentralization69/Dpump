@@ -1,0 +1,5 @@
+python-dotenv==1.0.1
+Requests==2.32.3
+schedule==1.2.2
+solders==0.22.0
+tweepy==4.14.0
