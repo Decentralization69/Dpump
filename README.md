@@ -1,6 +1,6 @@
 # 🚀 Community-Powered Token Launch Bot
 
-Welcome to the **Community-Powered Token Launch Bot**! In the fast-paced world of blockchain, **community involvement is everything**. Why let a single developer dictate which tokens hit the market? With our innovative Twitter bot, **@DPUMPDEPLOY**, **you** hold the power! 🌟
+Welcome to the **Community-Powered PumpFun Launch Bot on Twitter**! In the fast-paced world of blockchain, **community involvement is everything**. Why let a single developer dictate which tokens hit the market? With our innovative Twitter bot, **@DPUMPDEPLOY**, **you** hold the power! 🌟
 
 ## 🌟 Overview
 
